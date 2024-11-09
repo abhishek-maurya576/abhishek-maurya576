@@ -107,4 +107,4 @@ https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=<abhishek-
 
 <img src=https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
 
-https://api.badgr.io/public/assertions/ozVWd5ooRjuZenu1m4Rzvg?identity__email=maurya972137%40gmail.com
+(https://api.badgr.io/public/assertions/ozVWd5ooRjuZenu1m4Rzvg?identity__email=maurya972137%40gmail.com)
