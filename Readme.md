@@ -101,7 +101,5 @@ Here are some ideas to get you started
 </div>
 </details>
 
-https://gssoc.girlscript.tech/leaderboard?year=<YEAR_BADGES>&username=<abhishek-maurya576>
-
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
 
