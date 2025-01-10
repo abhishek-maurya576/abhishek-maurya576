@@ -4,8 +4,10 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Maurya</h1>
 
 
+
+
 ## :man_technologist:About Me
-- 🌱 I’m currently learning Java.                                                ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=abhishek-maurya576)
+- 🌱 I’m currently learning Java.                                               
 - 🔭 I’m currently working on Android project.
 - 💬 Ask me about Java, C, Linux System.
 - ✨ Interested in exploring the possibilities of **Android Development**.
