@@ -5,7 +5,7 @@
 
 
 ## :man_technologist:About Me
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Java.                                                ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=abhishek-maurya576)
 - 🔭 I’m currently working on Android project.
 - 💬 Ask me about Java, C, Linux System.
 - ✨ Interested in exploring the possibilities of **Android Development**.
