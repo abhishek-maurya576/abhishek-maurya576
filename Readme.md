@@ -4,6 +4,7 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhishek Maurya</h1>
 
 
+![](https://komarev.com/ghpvc/?username=abhishek-maurya576&color=green)
 
 
 ## :man_technologist:About Me
