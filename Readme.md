@@ -60,8 +60,8 @@
  
  
  
- Aaahhhhhh !! My contribution graph is getting eaten... 😶
- ---
+# Aaahhhhhh !! My contribution graph is getting eaten... 😶
+
 <!-- Github Snake Grid-->
 <a href="https://github.com/Platane/snk">
   <picture>
@@ -70,28 +70,21 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/abhishek-maurya576/abhishek-maurya576/output/github-contribution-grid-snake.svg"/>
   </picture>
 </a>
-***
-<!--
-
-
-
-    
 
 <!--
 **abhishek-maurya576/abhishek-maurya576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started
+Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m lookinfor help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 
 
