@@ -294,6 +294,14 @@ Git/GitHub    [█████████░░░░░░░░░░]  45%
   <table>
     <tr>
       <td align="center" width="33%">
+        <a href="https://github.com/abhishek-maurya576/AiChatBot">
+          <img src="https://img.shields.io/badge/AI_Agent-2196F3?style=for-the-badge&logo=ai&logoColor=white
+" /><br/>
+          <sub><sup> Modern AI Agent</sup></sub><br/>
+          <sub><sup>Android • Room • Gemini</sup></sub>
+        </a>
+      </td>
+      <td align="center" width="33%">
         <a href="https://github.com/abhishek-maurya576/Muzic-Player">
           <img src="https://img.shields.io/badge/Muzic_Player-2196F3?style=for-the-badge&logo=android&logoColor=white" /><br/>
           <sub><sup>🎵 Modern music player application</sup></sub><br/>
