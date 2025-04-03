@@ -343,42 +343,6 @@ Git/GitHub    [█████████░░░░░░░░░░]  45%
   </table>
 </div>
 
-## 📱 Latest Android Projects
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://github.com/abhishek-maurya576/AiChatBot">
-          <img src="https://img.shields.io/badge/AI_Agent-2196F3?style=for-the-badge&logo=ai&logoColor=white
-" /><br/>
-          <sub><sup> Modern AI Agent</sup></sub><br/>
-          <sub><sup>Android • Room • Gemini</sup></sub>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/abhishek-maurya576/Muzic-Player">
-          <img src="https://img.shields.io/badge/Muzic_Player-2196F3?style=for-the-badge&logo=android&logoColor=white" /><br/>
-          <sub><sup>🎵 Modern music player application</sup></sub><br/>
-          <sub><sup>Android • SQLite • MediaPlayer</sup></sub>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/abhishek-maurya576/Tic-Tac-Toe-AI">
-          <img src="https://img.shields.io/badge/Tic_Tac_Toe_AI-4CAF50?style=for-the-badge&logo=android&logoColor=white" /><br/>
-          <sub><sup>🎮 AI-powered Tic Tac Toe game</sup></sub><br/>
-          <sub><sup>Java • AI Algorithm • Android</sup></sub>
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://github.com/abhishek-maurya576/NetFlix-Clone">
-          <img src="https://img.shields.io/badge/Netflix_Clone-FF5722?style=for-the-badge&logo=android&logoColor=white" /><br/>
-          <sub><sup>🎬 Netflix UI clone application</sup></sub><br/>
-          <sub><sup>Android • UI/UX • Java</sup></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## 📊 Contribution Graph
 <div align="center">
