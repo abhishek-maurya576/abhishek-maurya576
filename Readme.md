@@ -288,6 +288,38 @@ mindmap
         <p>A modern stopwatch application with a beautiful yellow theme, built using HTML, CSS, and JavaScript with a Firebase backend.</p>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/abhishek-maurya576/Muzic-Player">
+          <img src="https://img.shields.io/badge/Muzic_Player-E91E63?style=for-the-badge&logo=android&logoColor=white" alt="Muzic Player"/>
+        </a>
+        <p>A modern Android music player application with a clean interface for local music playback. Features media controls, background playback, and a beautiful UI.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/abhishek-maurya576/NetFlix-Clone">
+          <img src="https://img.shields.io/badge/Netflix_Clone-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix Clone"/>
+        </a>
+        <p>A web-based clone of the Netflix streaming platform built with HTML, CSS, and JavaScript.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/abhishek-maurya576/portfolio">
+          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
+        </a>
+        <p>A modern, responsive portfolio website built with React, Vite, and styled-components. Showcases projects, skills, and professional experience with a clean interface.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/abhishek-maurya576/AI-Text-Summarize-app">
+          <img src="https://img.shields.io/badge/AI_Text_Summarizer-7E57C2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Text Summarizer"/>
+        </a>
+        <p>An application that uses AI to automatically summarize long texts and documents into concise, readable summaries.</p>
+      </td>
+    </tr>
   </table>
 </div>
 
