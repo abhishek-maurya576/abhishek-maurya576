@@ -237,6 +237,60 @@ mindmap
       Sharing
 ```
 
+## 🚀 Latest Projects
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/abhishek-maurya576/EduReach">
+          <img src="https://img.shields.io/badge/EduReach-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="EduReach"/>
+        </a>
+        <p>AI-powered educational app designed to enhance learning efficiency through interactive courses, quizzes, task management, and personalized progress tracking.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/abhishek-maurya576/AiChatBot">
+          <img src="https://img.shields.io/badge/AI_Chat_Bot_Agent-039BE5?style=for-the-badge&logo=chatbot&logoColor=white" alt="AI Chat Bot Agent"/>
+        </a>
+        <p>Personal assistant application that integrates advanced AI capabilities with automated interaction features. Allows for efficient message sending, app control, and information retrieval through natural language commands.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/abhishek-maurya576/Snake-Game">
+          <img src="https://img.shields.io/badge/Snake_Game_(Android)-00A7F7?style=for-the-badge&logo=android&logoColor=white" alt="Snake Game (Android)"/>
+        </a>
+        <p>A modern implementation of the classic Snake game for Android, built with Jetpack Compose and Kotlin. Features enhanced graphics, multiple game modes, and a retro Nokia phone UI.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/abhishek-maurya576/snake_game">
+          <img src="https://img.shields.io/badge/Snake_Game_(Web)-FFA500?style=for-the-badge&logo=javascript&logoColor=white" alt="Snake Game (Web)"/>
+        </a>
+        <p>A modern implementation of the classic Snake game with enhanced features and realistic graphics using HTML5 Canvas and JavaScript.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/abhishek-maurya576/Tic-Tac-Toe-AI">
+          <img src="https://img.shields.io/badge/Tic_Tac_Toe_AI-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Tic Tac Toe AI"/>
+        </a>
+        <p>A modern implementation of the classic Tic Tac Toe game built with Jetpack Compose for Android, featuring an unbeatable AI opponent.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/abhishek-maurya576/Stop-Watch">
+          <img src="https://img.shields.io/badge/Stop_Watch-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="Stop Watch"/>
+        </a>
+        <p>A modern stopwatch application with a beautiful yellow theme, built using HTML, CSS, and JavaScript with a Firebase backend.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🏃‍♂️ My Coding Journey
 <div align="center">
   <table>
