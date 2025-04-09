@@ -13,6 +13,17 @@
   </a>
 </div>
 
+---
+
+## 🚀 What I Do
+- 📱 Android Apps with Java/Kotlin
+- 🤖 AI integrations using Python/TensorFlow
+- 🎨 UI/UX design with modern Android principles
+- 🌐 Web projects using HTML/CSS/JS
+- 📂 Git & GitHub for version control and open source
+
+---
+
 <div style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
 
@@ -322,6 +333,13 @@ mindmap
     </tr>
   </table>
 </div>
+
+## 💬 Testimonials
+> "Abhishek's passion for Android is insane! His contributions to Linkzy were crucial."  
+> – *College Mate*
+
+> "Always ready to help juniors and lead with example. Great mentor!"  
+> – *Junior from Dev Hub*
 
 ## 🏃‍♂️ My Coding Journey
 <div align="center">
@@ -912,3 +930,35 @@ journey
 
 ## counting of visitors to this page in this section started from Feb 13, 2025
 <a href="http://s05.flagcounter.com/more/P1"><img src="https://s05.flagcounter.com/count2/P1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_22/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+## 🎯 Goals for 2025
+- ✅ Master Kotlin and Jetpack Compose
+- ✅ Launch EduReach to Play Store
+- 🚀 Publish 3+ articles on Dev.to
+- 🚀 Contribute to 10+ open source repositories
+
+## 🎯 Quote I Live By
+> "Code with purpose. Learn with passion. Share with heart."
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌟-PERSONAL_PHILOSOPHY-gold?style=for-the-badge" />
+        <br/>
+        <div style="background: linear-gradient(45deg, #FF8008, #FFC837); padding: 15px; border-radius: 10px; margin: 10px 0; font-style: italic; font-weight: bold; color: #333;">
+          <h3 style="margin: 0;">"Perfect banne ka sapna chhodo, action lo! Launch karo, seekhte jao, aur khud ko grow karta dekho."</h3>
+          <p style="margin: 5px 0 0; text-align: right;">— Abhishek Maurya</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
+
+<!-- Star the repo if you like it! Fork to use it for your own profile -->
