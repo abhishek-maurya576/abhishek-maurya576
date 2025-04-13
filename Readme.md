@@ -130,27 +130,7 @@
  
  
  
-# 🐍 My Contributions Snake Eating My Graph
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/abhishek-maurya576/abhishek-maurya576/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/abhishek-maurya576/abhishek-maurya576/output/github-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/abhishek-maurya576/abhishek-maurya576/output/github-snake.svg"
-    />
-  </picture>
-
-  <br/>
-  <em>🎮 Watch the snake eat my contributions! 🐍</em>
-</div>
 
 <!--
 **abhishek-maurya576/abhishek-maurya576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -217,18 +197,6 @@ Here are some ideas to get you started:
   ```
 </div>
 
-<div align="center">
-  <img height="120" src="https://user-images.githubusercontent.com/123977217/235316115-5d550496-a176-4432-8661-aba5cc39571a.gif" />
-  <h3>Thanks for visiting! Here's a coding joke for you:</h3>
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-</div>
-
-## 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://abhishek-maurya576.github.io/portfolio/)
 
 ## 🎯 Current Focus
 ```mermaid
@@ -446,10 +414,7 @@ Git/GitHub    [█████████░░░░░░░░░░]  45%
   </table>
 </div>
 
-## 🎵 Coding to the Beat
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
-</div>
+
 
 ## 🤝 Open for Collaboration
 - 🚀 Looking to collaborate on Android Development projects
@@ -473,8 +438,8 @@ Git/GitHub    [█████████░░░░░░░░░░]  45%
   
   ```text
   2024 - GSSoC Contributor 🏆
-  2023 - Started Android Development Journey 📱
-  2022 - First Open Source Contribution 🎉
+  2024 - Started Android Development Journey 📱
+  2023 - First Open Source Contribution 🎉
   ```
 </div>
 
@@ -503,11 +468,7 @@ counting of visitors to this page started from Feb 2025
 ![](https://count.getloli.com/get/@abhishek-maurya576.github.readme)
 </br>
 
-[MIT](LICENSE)
 
----
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
 
 ## 🌟 Certifications & Achievements
 <div align="center">
@@ -615,8 +576,7 @@ graph TD
   <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
 </div>
 
-## 📈 GitHub Contribution Calendar
-![Snake animation](https://github.com/abhishek-maurya576/abhishek-maurya576/blob/output/github-contribution-grid-snake.svg)
+
 
 ## ⚡ Quick Links
 <div align="center">
@@ -638,38 +598,6 @@ graph TD
 
 
 
-## 🚀 Latest Project Highlights
-<div align="center">
-  <details>
-    <summary><b>🎵 Muzic Player</b></summary>
-    <p>
-      <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge" />
-      <br/>
-      <b>Key Features:</b>
-      <ul>
-        <li>🎨 Modern Material You Design</li>
-        <li>🎵 Advanced Audio Processing</li>
-        <li>📱 Seamless UI/UX</li>
-      </ul>
-    </p>
-  </details>
-  
-  <details>
-    <summary><b>🎮 Tic Tac Toe AI</b></summary>
-    <p>
-      <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Version-1.5-blue?style=for-the-badge" />
-      <br/>
-      <b>Key Features:</b>
-      <ul>
-        <li>🤖 Advanced AI Algorithm</li>
-        <li>🎯 Multiple Difficulty Levels</li>
-        <li>🎨 Intuitive Interface</li>
-      </ul>
-    </p>
-  </details>
-</div>
 
 ## 🎓 Education & Learning Path
 ```mermaid
@@ -702,7 +630,7 @@ journey
 ```text
 💻 Machine: HP
 ⚙️ OS: Windows 11 
-🚀 IDE: Android Studio, VS Code
+🚀 IDE: Android Studio, VS Code, Project IDX
 🛠️ Setup: Dual Monitor
 ```
 
@@ -759,15 +687,6 @@ pie title App Development Focus
 </div>
 
 
-## 🎵 Currently Coding To
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
-</div>
-
----
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=100&section=footer&animation=twinkling"/>
-</div>
 
 ## 📈 GitHub Statistics & Achievements
 
