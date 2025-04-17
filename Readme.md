@@ -15,6 +15,9 @@
 
 ---
 
+## 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://abhishek-maurya576.github.io/portfolio/)
+---
 ## 🚀 What I Do
 - 📱 Android Apps with Java/Kotlin
 - 🤖 AI integrations using Python/TensorFlow
@@ -26,9 +29,6 @@
 
 <div style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
-
-## 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://abhishek-maurya576.github.io/portfolio/)
 
 
 ## 💻 Tech Stack & Tools
@@ -128,7 +128,19 @@
   **Visitor Count**
  ![Visitor Count](https://profile-counter.glitch.me/{abhishek-maurya576}/count.svg)
  
- 
+ ## 🏃‍♂️ My Coding Journey
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya576&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek-maurya576&theme=radical&hide_border=true" alt="Coding Activity"/>
+      </td>
+    </tr>
+  </table>
+</div>
  
 
 
@@ -178,10 +190,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=abhishek-maurya576&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
-<div align="center">
-  <h2>⚡ Activity Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-maurya576&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
-</div>
 
 <div align="center">
   <h2>🎯 Skills Progress</h2>
@@ -309,19 +317,7 @@ mindmap
 > "Always ready to help juniors and lead with example. Great mentor!"  
 > – *Junior from Dev Hub*
 
-## 🏃‍♂️ My Coding Journey
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya576&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek-maurya576&theme=radical&hide_border=true" alt="Coding Activity"/>
-      </td>
-    </tr>
-  </table>
-</div>
+
 
 ## 🎨 Featured Projects
 <div align="center">
@@ -362,10 +358,6 @@ Git/GitHub    [█████████░░░░░░░░░░]  45%
 </div>
 
 
-## 📊 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-maurya576&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph">
-</div>
 
 ## 🏆 Hackathons & Competitions
 <div align="center">
