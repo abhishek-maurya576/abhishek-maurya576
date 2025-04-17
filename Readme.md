@@ -142,7 +142,10 @@
   </table>
 </div>
  
-
+<div align="center">
+  <h2>⚡ Quick Stats</h2>
+  <img src="https://github-stats-alpha.vercel.app/api?username=abhishek-maurya576&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Stats"/>
+</div>
 
 <!--
 **abhishek-maurya576/abhishek-maurya576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -420,10 +423,7 @@ Git/GitHub    [█████████░░░░░░░░░░]  45%
 - 🎧 Music & Podcasts
 - 📝 Writing technical articles
 
-<div align="center">
-  <h2>⚡ Quick Stats</h2>
-  <img src="https://github-stats-alpha.vercel.app/api?username=abhishek-maurya576&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Stats"/>
-</div>
+
 
 <div align="center">
   <h2>🌟 Achievements Timeline</h2>
