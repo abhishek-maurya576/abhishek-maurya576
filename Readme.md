@@ -194,21 +194,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align="center">
-  <h2>🎯 Skills Progress</h2>
-  
-  ```text
-  Java          ███████████████████░░   90%
-  Android       ██████████████████░░░   85%
-  Python        ████████████████░░░░░   75%
-  MySQL         ███████████████░░░░░░   70%
-  Firebase      ███████████████░░░░░░   70%
-  Git/GitHub    ████████████████░░░░░   75%
-  AI/ML         ██████████░░░░░░░░░░   50%
-  ```
-</div>
-
-
 ## 🎯 Current Focus
 ```mermaid
 mindmap
@@ -319,96 +304,6 @@ mindmap
 
 > "Always ready to help juniors and lead with example. Great mentor!"  
 > – *Junior from Dev Hub*
-
-
-
-## 🎨 Featured Projects
-<div align="center">
-  <a href="https://github.com/abhishek-maurya576/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-maurya576&repo=portfolio&theme=radical&hide_border=true" />
-  </a>
-</div>
-
-## 🌟 Skills Progress
-<div align="center">
-
-```text
-Android Dev    [██████████░░░░░░░░░░]  50%
-Java          [████████████░░░░░░░░]  60%
-Kotlin        [██████░░░░░░░░░░░░░]  30%
-Python        [████████░░░░░░░░░░░]  40%
-Firebase      [███████░░░░░░░░░░░░]  35%
-Git/GitHub    [█████████░░░░░░░░░░]  45%
-```
-
-</div>
-
-## 🎯 Current Goals
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/1-Master_Android_Development-blue?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2-Contribute_to_Open_Source-green?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/3-Build_Amazing_Projects-red?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-## 🏆 Hackathons & Competitions
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/GSSoC'24-Contributor-brightgreen?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Smart_India_Hackathon-Finalist-blue?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Android_Study_Jams-Facilitator-red?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🌱 Learning Journey
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/1️⃣_COMPLETED-JAVA-FF6B6B?style=for-the-badge&logo=java&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2️⃣_COMPLETED-ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/3️⃣_CURRENTLY_LEARNING-KOTLIN-8A2BE2?style=for-the-badge&logo=kotlin&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/4️⃣_NEXT_UP-FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/5️⃣_PLANNED-JETPACK_COMPOSE-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/6️⃣_PLANNED-FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 
 ## 🤝 Open for Collaboration
