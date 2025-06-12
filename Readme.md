@@ -1,29 +1,38 @@
 <div align="center"> 
-<img src="https://github.com/abhishek-maurya576/abhishek-maurya576/blob/main/gif4%281%29.gif" width="400px" />  
+<img src="https://github.com/abhishek-maurya576/abhishek-maurya576/blob/main/gif4%281%29.gif" width="400px" alt="Abhishek Maurya - Android & Flutter Developer" />  
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Abhishek+Maurya;Android+Developer;Java+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Abhishek+Maurya;Android+%26+Flutter+Developer;Java+%26+Dart+Enthusiast;Open+Source+Contributor" alt="Abhishek Maurya - Android & Flutter Developer, Java & Dart Enthusiast, Open Source Contributor" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="margin-right: 10px;" alt="Wave Animation">
   <a href="https://komarev.com/ghpvc/?username=abhishek-maurya576">
-    <img src="https://komarev.com/ghpvc/?username=abhishek-maurya576&color=green" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=abhishek-maurya576&color=green" alt="Abhishek Maurya GitHub Profile Views" />
   </a>
 </div>
 
 ---
 
-## 🌐 Portfolio
+## 👋 Introduction | Mobile App Developer
+
+I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursuing a BCA at the University of Allahabad. I specialize in building cross-platform mobile applications with Flutter and native Android apps using Java/Kotlin, while also exploring AI/ML with Python and TensorFlow. With a keen eye for UI/UX design and a commitment to clean code, I transform innovative ideas into user-friendly applications that solve real-world problems.
+
+---
+
+## 🌐 Portfolio & Projects
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://abhishek-maurya576.github.io/portfolio/)
 ---
-## 🚀 What I Do
-- 📱 Android Apps with Java/Kotlin
-- 🤖 AI integrations using Python/TensorFlow
-- 🎨 UI/UX design with modern Android principles
-- 🌐 Web projects using HTML/CSS/JS
-- 📂 Git & GitHub for version control and open source
+
+## 🚀 What I Do | Mobile Development Expertise
+
+- 📱 **Android App Development** with Java/Kotlin - native mobile applications
+- 📱 **Flutter Development** - cross-platform apps for iOS, Android, and Web
+- 🤖 **AI/ML Integrations** using Python/TensorFlow for smart app features
+- 🎨 **UI/UX Design** with modern Android Material Design and Flutter principles
+- 🌐 **Web Development** using HTML/CSS/JS for responsive interfaces
+- 📂 **Version Control** with Git & GitHub for collaborative development and open source
 
 ---
 
@@ -31,9 +40,9 @@
 
 
 
-## 💻 Tech Stack & Tools
+## 💻 Tech Stack & Tools | Mobile & Web Development
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Journey-In%20Progress-brightgreen?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tech%20Journey-In%20Progress-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Technology Journey"/>
 </p>
 
 <div align="center" style="transform-style: preserve-3d; perspective: 1000px;">
@@ -75,47 +84,48 @@
 
 </div>
 
-## :man_technologist: About Me
-> - 🌱 I'm currently learning Java, Python, and Android Development
-> - 🔭 Working on exciting Android projects and exploring AI
-> - 🤖 Dabbling with AI - it's my new tiny companion in tech!
-> - 💬 Ask me about Java, Python, Android, or AI
-> - ✨ Passionate about **Android Development** and **AI Integration**
+## :man_technologist: About Me | Android & Flutter Developer
+> - 🌱 I'm currently learning **Flutter, Java, Kotlin, and advanced Android Development**
+> - 🔭 Working on exciting **cross-platform mobile applications** and exploring AI integration
+> - 🤖 Implementing **machine learning models** into mobile apps - it's my new passion in tech!
+> - 💬 Ask me about **Java, Kotlin, Flutter, Dart, Android, Firebase, or AI integration**
+> - ✨ Passionate about **Mobile App Development** and **AI/ML Integration**
+> - 📱 Focused on creating **seamless user experiences** across multiple platforms
 > - ⚡ Fun fact: I think I am good at sleeping 😴
 
-## 💻 Tech Stack 
+## 💻 Tech Stack | Mobile & Web Development Skills
 -which I have worked with or just hands-on
 | Categories      | Tools & Skills
 | ----------- | ----------- | 
-| 👩‍💻 Languages     | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Abhishek Maurya](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Abhishek Maurya](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Abhishek Maurya](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Abhishek Maurya](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| 🤖 AI/ML | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| ⚡ Database   | ![Abhishek Maurya](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Abhishek Maurya](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)|
-| 🖍 Design     | ![Abhishek Maurya](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-| 👩‍💻 IDE    | ![Abhishek Maurya](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Abhishek Maurya](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-|📚 Frameworks, Platforms and Libraries| ![Abhishek Maurya](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-| 🎓 Education  | ![Abhishek Maurya](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=YouTube&logoColor=white) ![Abhishek Maurya](https://img.shields.io/badge/masai-ffffff?style=for-the-badge&logo=masai&logoColor=white) 
-| 📱 OS         | ![Abhishek Maurya](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Abhishek Maurya](https://img.shields.io/badge/windows-3944F7?style=for-the-badge&logo=windows&logoColor=white) ![Abhishek Maurya](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|
-| ☁️ Hosting/Saas| ![Abhishek Maurya](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Abhishek Maurya](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-| 📈 Version Control | ![Abhishek Maurya](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Abhishek Maurya](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) |
-| 📦 CI/CD |  ![Abhishek Maurya](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-## 📫 How to reach me
+| 👩‍💻 Languages     | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python Programming") ![Abhishek Maurya](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white "C Programming") ![Abhishek Maurya](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white "C# Programming") ![Abhishek Maurya](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white "Java Programming") ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white "Dart Programming") ![Abhishek Maurya](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML5") ![Abhishek Maurya](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS3") |
+| 🤖 AI/ML | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white "TensorFlow ML") ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white "scikit-learn ML") ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white "Pandas Data Analysis") ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white "NumPy Data Processing") |
+|📚 Frameworks, Platforms and Libraries| ![Abhishek Maurya](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white ".NET Framework") ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white "Flutter Cross-Platform") ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white "Kotlin Android") ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white "Firebase Backend")
+| ⚡ Database   | ![Abhishek Maurya](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white "MySQL Database") ![Abhishek Maurya](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white "Firebase Realtime Database")|
+| 🖍 Design     | ![Abhishek Maurya](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6 "Adobe XD UI Design")
+| 👩‍💻 IDE    | ![Abhishek Maurya](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white "Android Studio IDE") ![Abhishek Maurya](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white "Visual Studio IDE") ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white "Google Colab") ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white "Jupyter Notebook") ![Project IDX](https://img.shields.io/badge/Project_IDX-4285F4?style=for-the-badge&logo=google&logoColor=white "Google Project IDX")
+| 🎓 Education  | ![Abhishek Maurya](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=YouTube&logoColor=white "YouTube Learning") ![Abhishek Maurya](https://img.shields.io/badge/masai-ffffff?style=for-the-badge&logo=masai&logoColor=white "Masai School") ![Alison](https://img.shields.io/badge/Alison-2D2D2D?style=for-the-badge&logo=alison&logoColor=yellow "Alison Online Courses") 
+| 📱 OS         | ![Abhishek Maurya](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android OS") ![Abhishek Maurya](https://img.shields.io/badge/windows-3944F7?style=for-the-badge&logo=windows&logoColor=white "Windows OS") ![Abhishek Maurya](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white "Ubuntu Linux")|
+| ☁️ Hosting/Saas| ![Abhishek Maurya](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white "GitHub Pages") ![Abhishek Maurya](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white "Microsoft Azure") ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white "Vercel Hosting")
+| 📈 Version Control | ![Abhishek Maurya](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white "Git Version Control") ![Abhishek Maurya](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white "GitHub") ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white "Bitbucket") |
+| 📦 CI/CD |  ![Abhishek Maurya](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white "GitHub Actions CI/CD")
+## 📫 How to reach me | Contact Information
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maurya9721@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "Contact via Email")](mailto:maurya9721@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white "Follow on GitHub")](https://github.com/abhishek-maurya576)
   
 ***
 
-## 📱 My Social Handles
+## 📱 My Social Handles | Connect with Me
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekmaurya9118/)
-[![Instagram](https://img.shields.io/badge/Instagram-ea3991?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishek_maurya576/)
-[![X](https://img.shields.io/badge/-161717?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Abhishekm576)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "Connect on LinkedIn")](https://www.linkedin.com/in/abhishekmaurya9118/)
+[![Instagram](https://img.shields.io/badge/Instagram-ea3991?style=for-the-badge&logo=instagram&logoColor=white "Follow on Instagram")](https://www.instagram.com/abhishek_maurya576/)
+[![X](https://img.shields.io/badge/-161717?style=for-the-badge&logo=x&logoColor=white "Follow on X/Twitter")](https://x.com/Abhishekm576)
 
   
 
 
-## 📊 My Github Stats 
+## 📊 My Github Stats | Developer Metrics
 
  |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
 | -----------                                                                                                                                                                                        | -----------                                                                                                                          |
@@ -128,19 +138,6 @@
   **Visitor Count**
  ![Visitor Count](https://profile-counter.glitch.me/{abhishek-maurya576}/count.svg)
  
- ## 🏃‍♂️ My Coding Journey
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya576&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek-maurya576&theme=radical&hide_border=true" alt="Coding Activity"/>
-      </td>
-    </tr>
-  </table>
-</div>
  
 <div align="center">
   <h2>⚡ Quick Stats</h2>
@@ -184,8 +181,7 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+
 </div>
 
 <div align="center">
@@ -200,6 +196,7 @@ mindmap
   root((My Focus Areas))
     Android Development
       Native Apps
+      Flutter
       Kotlin & Java
       UI/UX Design
     Artificial Intelligence
@@ -212,15 +209,28 @@ mindmap
       Sharing
 ```
 
-## 🚀 Latest Projects
+## 🚀 Latest Projects | Mobile App Portfolio
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/abhishek-maurya576/EduReach">
-          <img src="https://img.shields.io/badge/EduReach-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="EduReach"/>
+        <a href="https://github.com/abhishek-maurya576/linkzy">
+          <img src="https://img.shields.io/badge/Linkzy-00B4D8?style=for-the-badge&logo=flutter&logoColor=white" alt="Linkzy - Flutter Chat Application"/>
+          <br/>
+          <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Project Status: Active"/>
+          <img src="https://img.shields.io/badge/Version-v1.4.0-blue?style=flat-square" alt="Project Version"/>
         </a>
-        <p>AI-powered educational app designed to enhance learning efficiency through interactive courses, quizzes, task management, and personalized progress tracking.</p>
+        <p><strong>Linkzy: Flutter Chat App</strong> - A modern real-time 1-on-1 chat application built with Flutter and Firebase. Features include secure messaging with PIN protection, animated UI, cross-platform support (iOS, Android, Web), and real-time notifications. <em>Keywords: Flutter, Firebase, Real-time Chat, Cross-platform, Mobile App</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/abhishek-maurya576/EduReach">
+          <img src="https://img.shields.io/badge/EduReach-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="EduReach - Android Education App"/>
+          <br/>
+          <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Project Status: In Development"/>
+        </a>
+        <p><strong>EduReach: Android Education Platform</strong> - AI-powered educational app designed to enhance learning efficiency through interactive courses, quizzes, task management, and personalized progress tracking. <em>Keywords: Android, Education App, AI, Machine Learning, Java</em></p>
       </td>
     </tr>
     <tr>
@@ -312,42 +322,31 @@ mindmap
 - 🌟 Open to mentoring and being mentored
 - 🎯 Seeking opportunities in open source
 
+## 🤝 Contribution Guidelines
+If you're interested in contributing to any of my projects, here's how you can help:
+
+1. **Fork the repository** you're interested in
+2. **Create a feature branch**: `git checkout -b feature/amazing-feature`
+3. **Make your changes** and test thoroughly
+4. **Commit your changes**: `git commit -m 'Add some amazing feature'`
+5. **Push to the branch**: `git push origin feature/amazing-feature`
+6. **Open a Pull Request** and describe your changes in detail
+
+I welcome contributions in:
+- 💻 Code improvements and bug fixes
+- 📚 Documentation and examples
+- 🎨 UI/UX enhancements
+- ✅ Test coverage
+- 💡 New feature ideas
+
+Feel free to reach out if you have any questions or need guidance!
+
 ## 🎮 When I'm Not Coding
 - 📚 Reading tech blogs and documentation
 - 🎮 Gaming for relaxation
 - 🎧 Music & Podcasts
 - 📝 Writing technical articles
 
-
-
-<div align="center">
-  <h2>🌟 Achievements Timeline</h2>
-  
-  ```text
-  2024 - GSSoC Contributor 🏆
-  2024 - Started Android Development Journey 📱
-  2023 - First Open Source Contribution 🎉
-  ```
-</div>
-
-<div align="center">
-  <h2>📊 Weekly Development Breakdown</h2>
-  
-  ```text
-  Android Development  🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️  60%
-  Java                 🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️  50%
-  Python              🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️  30%
-  Documentation       🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️  20%
-  ```
-</div>
-
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-maurya576" alt="abhishek-maurya576" /></a>
-</p>
 
 ### Profile Views
 counting of visitors to this page started from Feb 2025
@@ -357,31 +356,6 @@ counting of visitors to this page started from Feb 2025
 
 
 
-## 🌟 Certifications & Achievements
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Android_Development-Google-success?style=for-the-badge&logo=android" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Java_Programming-Oracle-red?style=for-the-badge&logo=java" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Python_Development-Microsoft-blue?style=for-the-badge&logo=python" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📊 Coding Activity Metrics
-```mermaid
-pie title My Coding Time Distribution
-    "Android Development" : 40
-    "Java Programming" : 30
-    "Python" : 15
-    "Other Technologies" : 15
-```
 
 ## 🛠️ Development Workflow
 ```mermaid
@@ -425,58 +399,12 @@ graph LR
   </table>
 </div>
 
-## 🎯 Project Architecture
-```mermaid
-graph TD
-    A[Android App] --> B[UI Layer]
-    A --> C[Domain Layer]
-    A --> D[Data Layer]
-    B --> E[Activities]
-    B --> F[Fragments]
-    B --> G[ViewModels]
-    C --> H[Use Cases]
-    C --> I[Repositories]
-    D --> J[Local Storage]
-    D --> K[Remote API]
-    style A fill:#ff9900,stroke:#333,stroke-width:4px
-    style B fill:#00ff00,stroke:#333,stroke-width:2px
-    style C fill:#0099ff,stroke:#333,stroke-width:2px
-    style D fill:#ff99cc,stroke:#333,stroke-width:2px
-```
-
-## 🌐 Connect & Follow
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhishekmaurya9118/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/Abhishekm576">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/abhishek-maurya576">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-</div>
-
 ## 🎮 Fun Zone
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
 </div>
 
 
-
-## ⚡ Quick Links
-<div align="center">
-  <a href="https://abhishek-maurya576.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Website-blue?style=for-the-badge" />
-  </a>
-  <a href="mailto:maurya9721@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-Contact-red?style=for-the-badge" />
-  </a>
-  <a href="https://drive.google.com/file/d/1e6-vdSU4_uskIWlNzRBVxPlpw0xnWxT1/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📄_Resume-Download-green?style=for-the-badge" />
-  </a>
-</div>
 
 ---
 <div align="center">
@@ -485,26 +413,10 @@ graph TD
 
 
 
-
-## 🎓 Education & Learning Path
-```mermaid
-journey
-    title My Learning Journey
-    section Android Development
-      Basic Android: 5: Me
-      Java Fundamentals: 5: Me
-      Android UI/UX: 4: Me
-      Kotlin: 3: Me
-    section AI/ML
-      Python Basics: 4: Me
-      Machine Learning: 2: Me
-      TensorFlow: 1: Me
-```
-
 ## 🌟 Featured Repositories
 <div align="center">
-  <a href="https://github.com/abhishek-maurya576/Muzic-Player">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-maurya576&repo=Muzic-Player&theme=radical" />
+  <a href="https://github.com/abhishek-maurya576/linkzy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-maurya576&repo=linkzy&theme=radical" />
   </a>
   <a href="https://github.com/abhishek-maurya576/Tic-Tac-Toe-AI">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-maurya576&repo=Tic-Tac-Toe-AI&theme=radical" />
@@ -523,23 +435,6 @@ journey
 
 </div>
 
-## 🎨 UI/UX Portfolio
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Material_Design-Expert-success?style=for-the-badge&logo=material-design&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/UI_Animation-Advanced-blue?style=for-the-badge&logo=android&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Responsive_Design-Expert-success?style=for-the-badge&logo=android&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 📱 App Development Stats
 ```mermaid
 pie title App Development Focus
@@ -555,7 +450,7 @@ pie title App Development Focus
   <table>
     <tr>
       <td align="center">
-        <img width="100" src="https://img.shields.io/badge/100+-Android_Apps-success?style=for-the-badge" />
+        <img width="100" src="https://img.shields.io/badge/50+-Android_Apps-success?style=for-the-badge" />
         <br/>
         <sup>Projects Completed</sup>
       </td>
@@ -575,161 +470,6 @@ pie title App Development Focus
 
 
 
-## 📈 GitHub Statistics & Achievements
-
-<div align="center">
-  <details>
-    <summary><b>📊 Detailed Statistics</b></summary>
-    <br/>
-    <table>
-      <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=abhishek-maurya576&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-        </td>
-        <td>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-maurya576&theme=tokyonight&hide_border=true">
-        </td>
-      </tr>
-    </table>
-  </details>
-
-  <details>
-    <summary><b>🌟 Contribution Insights</b></summary>
-    <br/>
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Total_Commits-14,243-blue?style=for-the-badge&logo=github" />
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Total_PRs-0-purple?style=for-the-badge&logo=git" />
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Total_Issues-9-red?style=for-the-badge&logo=github" />
-        </td>
-      </tr>
-    </table>
-
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-timeline
-    title Activity Timeline
-    2022 : First Contribution
-    2023 : 500+ Commits
-    2024 : 1000+ Commits : 4500+ Stars
-```
-  </details>
-
-  <details>
-    <summary><b>🔥 Streak Statistics</b></summary>
-    <br/>
-    <div align="center">
-      <table>
-        <tr>
-          <td>Current Streak</td>
-          <td>Best Streak</td>
-          <td>Average Per Day</td>
-        </tr>
-        <tr>
-          <td>
-            <img src="https://img.shields.io/badge/366_Days-🔥-orange?style=for-the-badge" />
-          </td>
-          <td>
-            <img src="https://img.shields.io/badge/368_Days-⚡-yellow?style=for-the-badge" />
-          </td>
-          <td>
-            <img src="https://img.shields.io/badge/4.47-📊-blue?style=for-the-badge" />
-          </td>
-        </tr>
-      </table>
-    </div>
-  </details>
-
-  <details>
-    <summary><b>📊 Language Distribution</b></summary>
-    <br/>
-    <div align="center">
-      <table>
-        <tr>
-          <td>
-            <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya576&layout=compact&theme=tokyonight&hide_border=true" />
-          </td>
-        </tr>
-      </table>
-      <br/>
-      <div>
-        <img src="https://img.shields.io/badge/Jupyter-78.42%25-orange?style=flat-square&logo=jupyter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-25%25-blue?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/C-4.53%25-green?style=flat-square&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML-3.26%25-red?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Shell-0.48%25-lightgrey?style=flat-square&logo=gnu-bash&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-0.2%25-yellow?style=flat-square&logo=java&logoColor=white" />
-      </div>
-    </div>
-  </details>
-
-  <details>
-    <summary><b>🏆 GitHub Achievements</b></summary>
-    <br/>
-    <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=abhishek-maurya576&theme=tokyonight&no-frame=true&row=2&column=3">
-    </div>
-    <br/>
-    <div align="center">
-      <table>
-        <tr>
-          <td align="center">
-            <img src="https://img.shields.io/badge/⭐_4,573-Stargazers-gold?style=for-the-badge" />
-          </td>
-          <td align="center">
-            <img src="https://img.shields.io/badge/👥_30,939-Followers-blue?style=for-the-badge" />
-          </td>
-          <td align="center">
-            <img src="https://img.shields.io/badge/🔀_1,105-Forks-purple?style=for-the-badge" />
-          </td>
-        </tr>
-      </table>
-    </div>
-  </details>
-
-  <details>
-    <summary><b>📈 Contribution Graph</b></summary>
-    <br/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-maurya576&theme=react-dark&area=true&hide_border=true" width="100%">
-    <br/>
-    <img src="https://github.com/abhishek-maurya576/abhishek-maurya576/blob/output/github-contribution-grid-snake.svg" width="100%">
-  </details>
-
-  <details>
-    <summary><b>🎯 Activity Metrics</b></summary>
-    <br/>
-    ```text
-    💻 Repositories Contributed To : 4
-    ⭐ Total Stars Earned         : 4,573
-    🔀 Total Forks               : 1,105
-    📝 Total Commits             : 14,243
-    🔍 Pull Requests Reviewed    : 0
-    📥 Pull Requests Opened      : 0
-    💬 Issue Comments            : 9
-    👀 Repositories Watching     : 158
-    ```
-  </details>
-</div>
-
-
-
-### 🌟 Contribution Heatmap
-```mermaid
-%%{init: {'theme': 'dark'}}%%
-journey
-    title Contribution Intensity
-    section Recent Activity
-      Monday: 5: Commits
-      Tuesday: 4: Commits
-      Wednesday: 3: Commits
-      Thursday: 5: Commits
-      Friday: 4: Commits
-```
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
 ---
@@ -738,8 +478,8 @@ journey
 <a href="http://s05.flagcounter.com/more/P1"><img src="https://s05.flagcounter.com/count2/P1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_22/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ## 🎯 Goals for 2025
-- ✅ Master Kotlin and Jetpack Compose
-- ✅ Launch EduReach to Play Store
+- ✅ Master Flutter
+- ✅ Launch Linkzy to Play Store
 - 🚀 Publish 3+ articles on Dev.to
 - 🚀 Contribute to 10+ open source repositories
 
