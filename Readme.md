@@ -1,5 +1,5 @@
 <div align="center"> 
-<img src="https://github.com/abhishek-maurya576/abhishek-maurya576/blob/main/gif4%281%29.gif" width="400px" alt="Abhishek Maurya - Android & Flutter Developer" />  
+<img src="https://github.com/abhishek-maurya576/abhishek-maurya576/blob/main/gif4%281%29.gif" width="400px" alt="Abhishek Maurya - Android Developer" />  
 </div>
 
 <div align="center">
