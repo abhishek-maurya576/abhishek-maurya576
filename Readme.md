@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Abhishek+Maurya;Android+%26+Flutter+Developer;Java+%26+Dart+Enthusiast;Open+Source+Contributor" alt="Abhishek Maurya - Android Developer, Java & Dart Enthusiast, Open Source Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Abhishek+Maurya;Android+Developer;Java+%26+Dart+Enthusiast;Open+Source+Contributor" alt="Abhishek Maurya - Android Developer, Java & Dart Enthusiast, Open Source Contributor" />
 </div>
 
 <div align="center">
