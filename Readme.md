@@ -8,7 +8,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Abhishek+Maurya;Android+Developer;Java+%26+Python+Enthusiast;Open+Source+Contributor" alt="Abhishek Maurya - Android Developer, Java & Python Enthusiast, Open Source Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Abhishek+Maurya+👋;Android+Developer+📱;Flutter+Developer+🚀;Java+%26+Python+Enthusiast+💻;AI/ML+Integration+Expert+🤖;Open+Source+Contributor+🌟;Building+Amazing+Apps+✨" alt="Abhishek Maurya - Android Developer, Java & Python Enthusiast, Open Source Contributor" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <div align="center">
@@ -117,6 +121,11 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
 </div>
 
 ## :man_technologist: About Me 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 > - 🌱 I'm currently learning **Flutter, Java, Kotlin, and advanced Android Development**
 > - 🔭 Working on exciting **cross-platform mobile applications** and exploring AI integration
 > - 🤖 Implementing **machine learning models** into mobile apps - it's my new passion in tech!
@@ -124,6 +133,10 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
 > - ✨ Passionate about **Mobile App Development** and **AI/ML Integration**
 > - 📱 Focused on creating **seamless user experiences** across multiple platforms
 > - ⚡ Fun fact: I think I am good at sleeping 😴
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 💻 Tech Stack | Mobile & Web Development Skills
 -which I have worked with or just hands-on
@@ -157,6 +170,12 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
   
 
 
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## 📊 GitHub Analytics & Developer Metrics
 
 <div align="center">
@@ -186,9 +205,10 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
 
 ### 📈 Contribution Activity Graph
 
-[![Abhishek Maurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek-maurya576&theme=tokyo-night&bg_color=0D1117&color=00FF00&line=00FF00&point=FF6B6B&area=true&hide_border=true)](https://github.com/abhishek-maurya576)
- 
- 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-maurya576&custom_title=Abhishek's%20Contribution%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
 ### ⚡ Comprehensive Developer Dashboard
 
 <div align="center">
@@ -235,6 +255,12 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
   <img src="https://github-profile-trophy.vercel.app/?username=abhishek-maurya576&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ## 🚀 Latest Projects | Mobile App Portfolio
 <div align="center">
@@ -346,6 +372,12 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
   </table>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## 💬 Testimonials
 > "Abhishek's passion for Android is insane! His contributions to Linkzy were crucial."  
 > – *College Mate*
@@ -407,8 +439,15 @@ graph LR
 </div>
 
 ## 🎮 Fun Zone
+
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 
@@ -513,12 +552,28 @@ graph LR
 </div>
 
 
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+  <h3>🎯 Watch the Snake Eat My Contributions!</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek-maurya576/abhishek-maurya576/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek-maurya576/abhishek-maurya576/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishek-maurya576/abhishek-maurya576/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br/>
+  <sub>🔄 Auto-updates every 24 hours | 🎨 Supports dark/light themes</sub>
+</div>
+
+---
+
 ## 🌍 Global Visitor Analytics
 
 <div align="center">
   <a href="http://s05.flagcounter.com/more/P1"><img src="https://s05.flagcounter.com/count2/P1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_22/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>
 
+<div align="center">
   <p>
     <i>⭐ If you found my profile interesting, consider giving it a star!</i><br>
     <i>🍴 Feel free to fork this template for your own use</i>
@@ -526,6 +581,7 @@ graph LR
   
   <img src="https://komarev.com/ghpvc/?username=abhishek-maurya576&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Visiting!%20👋&fontSize=24&fontAlignY=65"/>
 </div>
