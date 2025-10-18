@@ -519,9 +519,6 @@ graph LR
   <a href="http://s05.flagcounter.com/more/P1"><img src="https://s05.flagcounter.com/count2/P1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_22/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer Wave" />
-  
   <p>
     <i>⭐ If you found my profile interesting, consider giving it a star!</i><br>
     <i>🍴 Feel free to fork this template for your own use</i>
@@ -529,3 +526,8 @@ graph LR
   
   <img src="https://komarev.com/ghpvc/?username=abhishek-maurya576&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Visiting!%20👋&fontSize=24&fontAlignY=65"/>
+</div>
+
+<!-- Keywords: Abhishek Maurya, Android Developer, Flutter Developer, Java Developer, BCA Student, University of Allahabad, Open Source Contributor,Cursor pro, windsurf IDE pro -->
