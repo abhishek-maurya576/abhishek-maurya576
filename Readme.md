@@ -552,6 +552,16 @@ graph LR
 </div>
 
 
+## 🎨 3D GitHub Contribution Skyline
+
+<div align="center">
+  <h3>🏙️ My Contribution Skyline in 3D!</h3>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Skyline" />
+  <br/>
+</div>
+
+---
+
 ## 🐍 Contribution Snake Animation
 
 <div align="center">
@@ -562,7 +572,6 @@ graph LR
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishek-maurya576/abhishek-maurya576/output/github-contribution-grid-snake.svg">
   </picture>
   <br/>
-  <sub>🔄 Auto-updates every 24 hours | 🎨 Supports dark/light themes</sub>
 </div>
 
 ---
