@@ -28,9 +28,34 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
 
 ---
 
-## 🌐 Portfolio & Projects
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://abhishek-maurya576.github.io/portfolio/)
----
+
+## 🌐 Portfolio & Content Creation
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://abhishek-maurya576.github.io/portfolio/">
+          <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+        </a>
+        <br/><sub>Personal Website & Projects</sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://youtube.com/@bforbca">
+          <img src="https://img.shields.io/badge/📺_YouTube-B_for_BCA-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+        </a>
+        <br/><sub>Tech Content & Tutorials</sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://github.com/abhishek-maurya576">
+          <img src="https://img.shields.io/badge/💻_GitHub-Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br/><sub>Code Repositories & Projects</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## 🚀 What I Do 
 
@@ -132,58 +157,75 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
   
 
 
-## 📊 My Github Stats | Developer Metrics
+## 📊 GitHub Analytics & Developer Metrics
 
- |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
-| -----------                                                                                                                                                                                        | -----------                                                                                                                          |
-| ![Abhishek Maurya](https://github-readme-stats.vercel.app/api?username=abhishek-maurya576&show_icons=true&theme=tokyonight&count_private=true&bg_color=0D1117&border_color=30363d)          | [![GitHub Streak](https://streak-stats.demolab.com?user=abhishek-maurya576&theme=tokyonight&background=0D1117&border=30363d&stroke=00FF00&ring=00FF00&fire=FF6B6B&currStreakLabel=00FF00)](https://github.com/abhishek-maurya576)       |
-| ![Abhishek Maurya](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya576&layout=compact&theme=tokyonight&langs_count=6&count_private=true&bg_color=0D1117&border_color=30363d)   | ![Abhishek Maurya](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-maurya576&theme=tokyonight)        |
-
-
-[![Abhishek Maurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek-maurya576&theme=tokyonight&bg_color=0D1117&color=00FF00&line=00FF00&point=FF6B6B&area=true&hide_border=true)](https://github.com/abhishek-maurya576)
- 
- 
 <div align="center">
-  <h2>⚡ Quick Stats Dashboard</h2>
-  <img src="https://github-stats-alpha.vercel.app/api?username=abhishek-maurya576&cc=0D1117&tc=00FF00&ic=00FF00&bc=30363d" alt="Stats"/>
+  <img src="https://img.shields.io/badge/🔥_Contribution_Streak-Track_My_Journey-orange?style=for-the-badge" />
 </div>
-
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-maurya576&theme=tokyonight" alt="Profile Details" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=abhishek-maurya576&show_icons=true&theme=tokyonight&count_private=true&bg_color=0D1117&border_color=30363d&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://streak-stats.demolab.com?user=abhishek-maurya576&theme=tokyonight&background=0D1117&border=30363d&stroke=00FF00&ring=00FF00&fire=FF6B6B&currStreakLabel=00FF00&hide_border=true" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img width="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-maurya576&theme=tokyonight" alt="Repos Per Language" />
-        <img width="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-maurya576&theme=tokyonight" alt="Most Commit Language" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya576&layout=compact&theme=tokyonight&langs_count=8&count_private=true&bg_color=0D1117&border_color=30363d&hide_border=true" alt="Top Languages" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek-maurya576&theme=tokyonight" alt="Productive Time" />
       </td>
     </tr>
   </table>
 </div>
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
-</div>
-</details>
+### 📈 Contribution Activity Graph
 
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
+[![Abhishek Maurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek-maurya576&theme=tokyo-night&bg_color=0D1117&color=00FF00&line=00FF00&point=FF6B6B&area=true&hide_border=true)](https://github.com/abhishek-maurya576)
+ 
+ 
+### ⚡ Comprehensive Developer Dashboard
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-maurya576&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-maurya576&theme=tokyonight" alt="Repos Per Language" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-maurya576&theme=tokyonight" alt="Most Commit Language" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-maurya576&theme=tokyonight" alt="Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-stats-alpha.vercel.app/api?username=abhishek-maurya576&cc=0D1117&tc=00FF00&ic=00FF00&bc=30363d" alt="Quick Stats"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+<details>
+ <summary><b>🏅 GSSoC (GirlScript Summer of Code) Achievements</b></summary>
+ <p align="center">
+   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="100px" />
+   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" />
+   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" />
+ </p>
+ <p align="center">Recognized as a <b>Code Luminary</b> and <b>Open Source Contributor</b> at GSSoC 2024 Extended 🚀</p>
+</details>
 
 
 </div>
@@ -194,34 +236,26 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
 </div>
 
 
-## 🎯 Current Focus
-```mermaid
-mindmap
-  root((My Focus Areas))
-    Android Development
-      Native Apps
-      Flutter
-      Kotlin & Java
-      UI/UX Design
-    Artificial Intelligence
-      Machine Learning
-      TensorFlow
-      Python
-    Open Source
-      Contributing
-      Learning
-      Sharing
-```
-
 ## 🚀 Latest Projects | Mobile App Portfolio
 <div align="center">
   <table>
+  <tr>
+      <td align="center">
+        <a href="https://github.com/abhishek-maurya576/auracare">
+          <img src="https://img.shields.io/badge/Auracare-00B4D8?style=for-the-badge&logo=flutter&logoColor=white" alt="auracare - Flutter Chat Application"/>
+          <br/>
+          <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Project Status: Active"/>
+          <img src="https://img.shields.io/badge/Version-v1.3.0-blue?style=flat-square" alt="Project Version"/>
+        </a>
+        <p><strong>MindMate</strong> - MindMate (AuraCare) is a comprehensive mental wellness Flutter application that combines beautiful liquid glass-morphism UI with powerful AI-driven features for mood tracking, emotional support, meditation, and community connection. Built with a focus on psychological comfort and therapeutic aesthetics</em></p>
+      </td>
+    </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/abhishek-maurya576/linkzy">
           <img src="https://img.shields.io/badge/Linkzy-00B4D8?style=for-the-badge&logo=flutter&logoColor=white" alt="Linkzy - Flutter Chat Application"/>
           <br/>
-          <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Project Status: Active"/>
+          <img src="https://img.shields.io/badge/Status-Archived-success?style=flat-square" alt="Project Status: Archived"/>
           <img src="https://img.shields.io/badge/Version-v1.4.0-blue?style=flat-square" alt="Project Version"/>
         </a>
         <p><strong>Linkzy: Flutter Chat App</strong> - A modern real-time 1-on-1 chat application built with Flutter and Firebase. Features include secure messaging with PIN protection, animated UI, cross-platform support (iOS, Android, Web), and real-time notifications. <em>Keywords: Flutter, Firebase, Real-time Chat, Cross-platform, Mobile App</em></p>
@@ -326,13 +360,6 @@ mindmap
 - 🎮 Gaming for relaxation
 - 🎧 Music & Podcasts
 - 📝 Writing technical articles
-
-
-### Profile Views
-counting of visitors to this page started from Feb 2025
-
-![](https://count.getloli.com/get/@abhishek-maurya576.github.readme)
-</br>
 
 
 
@@ -455,6 +482,36 @@ graph LR
     </tr>
   </table>
 </div>
+
+## 🚀 Quick Links & Resources
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#-introduction">
+          <img src="https://img.shields.io/badge/👋-About_Me-blue?style=for-the-badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-featured-projects-portfolio">
+          <img src="https://img.shields.io/badge/🚀-Projects-green?style=for-the-badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-github-analytics--developer-metrics">
+          <img src="https://img.shields.io/badge/📊-Stats-orange?style=for-the-badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-lets-connect--collaborate">
+          <img src="https://img.shields.io/badge/🤝-Contact-red?style=for-the-badge" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## 🌍 Global Visitor Analytics
 
