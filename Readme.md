@@ -4,6 +4,7 @@
 
 <div align="center"> 
 <img src="https://github.com/abhishek-maurya576/abhishek-maurya576/blob/main/gif4%281%29.gif" width="400px" alt="Abhishek Maurya - Android Developer" />  
+
 </div>
 
 <div align="center">
@@ -453,7 +454,7 @@ graph LR
   <table>
     <tr>
       <td align="center">
-        <a href="mailto:maurya9721@gmail.com">
+        <a href="mailto:maurya972137@gmail.com">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
       </td>
