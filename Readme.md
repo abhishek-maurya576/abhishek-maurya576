@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=40&fontAlignY=35&desc=Where%20Innovation%20Meets%20Execution&descAlignY=55&descAlign=50"/>
+</div>
+
 <div align="center"> 
 <img src="https://github.com/abhishek-maurya576/abhishek-maurya576/blob/main/gif4%281%29.gif" width="400px" alt="Abhishek Maurya - Android Developer" />  
 </div>
@@ -8,14 +12,16 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="margin-right: 10px;" alt="Wave Animation">
-  <a href="https://komarev.com/ghpvc/?username=abhishek-maurya576">
-    <img src="https://komarev.com/ghpvc/?username=abhishek-maurya576&color=green" alt="Abhishek Maurya GitHub Profile Views" />
+ <a href="https://komarev.com/ghpvc/?username=abhishek-maurya576">
+    <img src="https://komarev.com/ghpvc/?username=abhishek-maurya576&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   </a>
+  <img src="https://img.shields.io/github/followers/abhishek-maurya576?style=for-the-badge&color=orange&labelColor=black" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/abhishek-maurya576?style=for-the-badge&color=yellow&labelColor=black" alt="Total Stars" />
 </div>
 
 ---
 
-## 👋 Introduction | Mobile App Developer
+## 👋 Introduction 
 
 I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursuing a BCA at the University of Allahabad. I specialize in building cross-platform mobile applications with Flutter and native Android apps using Java/Kotlin, while also exploring AI/ML with Python and TensorFlow. With a keen eye for UI/UX design and a commitment to clean code, I transform innovative ideas into user-friendly applications that solve real-world problems.
 
@@ -25,13 +31,13 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://abhishek-maurya576.github.io/portfolio/)
 ---
 
-## 🚀 What I Do | Mobile Development Expertise
+## 🚀 What I Do 
 
 - 📱 **Android App Development** with Java/Kotlin - native mobile applications
 - 📱 **Flutter Development** - cross-platform apps for iOS, Android, and Web
 - 🤖 **AI/ML Integrations** using Python/TensorFlow for smart app features
 - 🎨 **UI/UX Design** with modern Android Material Design and Flutter principles
-- 🌐 **Web Development** using HTML/CSS/JS for responsive interfaces
+- 🌐 **Web Development** using React for responsive interfaces
 - 📂 **Version Control** with Git & GitHub for collaborative development and open source
 
 ---
@@ -84,7 +90,7 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
 
 </div>
 
-## :man_technologist: About Me | Android & Flutter Developer
+## :man_technologist: About Me 
 > - 🌱 I'm currently learning **Flutter, Java, Kotlin, and advanced Android Development**
 > - 🔭 Working on exciting **cross-platform mobile applications** and exploring AI integration
 > - 🤖 Implementing **machine learning models** into mobile apps - it's my new passion in tech!
@@ -129,21 +135,34 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
 
  |  Stats                                                                                                                                                                                             |  Stats                                                                                                                               |
 | -----------                                                                                                                                                                                        | -----------                                                                                                                          |
-| ![Abhishek Maurya](https://github-readme-stats.vercel.app/api?username=abhishek-maurya576&show_icons=true&theme=dark&count_private=true&text_color=F5F3E4&icon_color=F26F2D&title_color=F26F2D)          | [![GitHub Streak](https://streak-stats.demolab.com?user=abhishek-maurya576&theme=darcula&border_radius=40.6)](https://github.com/abhishek-maurya576)       |
-| ![Abhishek Maurya](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya576&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE)   | ![Abhishek Maurya](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-maurya576&theme=gruvbox)        |
+| ![Abhishek Maurya](https://github-readme-stats.vercel.app/api?username=abhishek-maurya576&show_icons=true&theme=tokyonight&count_private=true&bg_color=0D1117&border_color=30363d)          | [![GitHub Streak](https://streak-stats.demolab.com?user=abhishek-maurya576&theme=tokyonight&background=0D1117&border=30363d&stroke=00FF00&ring=00FF00&fire=FF6B6B&currStreakLabel=00FF00)](https://github.com/abhishek-maurya576)       |
+| ![Abhishek Maurya](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya576&layout=compact&theme=tokyonight&langs_count=6&count_private=true&bg_color=0D1117&border_color=30363d)   | ![Abhishek Maurya](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-maurya576&theme=tokyonight)        |
 
 
-[![Abhishek Maurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek-maurya576&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/abhishek-maurya576)
-
-  **Visitor Count**
- ![Visitor Count](https://profile-counter.glitch.me/{abhishek-maurya576}/count.svg)
+[![Abhishek Maurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek-maurya576&theme=tokyonight&bg_color=0D1117&color=00FF00&line=00FF00&point=FF6B6B&area=true&hide_border=true)](https://github.com/abhishek-maurya576)
  
  
 <div align="center">
-  <h2>⚡ Quick Stats</h2>
-  <img src="https://github-stats-alpha.vercel.app/api?username=abhishek-maurya576&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Stats"/>
+  <h2>⚡ Quick Stats Dashboard</h2>
+  <img src="https://github-stats-alpha.vercel.app/api?username=abhishek-maurya576&cc=0D1117&tc=00FF00&ic=00FF00&bc=30363d" alt="Stats"/>
 </div>
 
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-maurya576&theme=tokyonight" alt="Profile Details" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-maurya576&theme=tokyonight" alt="Repos Per Language" />
+        <img width="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-maurya576&theme=tokyonight" alt="Most Commit Language" />
+      </td>
+    </tr>
+  </table>
+</div>
 <!--
 **abhishek-maurya576/abhishek-maurya576** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -316,30 +335,6 @@ mindmap
 > – *Junior from Dev Hub*
 
 
-## 🤝 Open for Collaboration
-- 🚀 Looking to collaborate on Android Development projects
-- 💡 Interested in AI/ML integrations
-- 🌟 Open to mentoring and being mentored
-- 🎯 Seeking opportunities in open source
-
-## 🤝 Contribution Guidelines
-If you're interested in contributing to any of my projects, here's how you can help:
-
-1. **Fork the repository** you're interested in
-2. **Create a feature branch**: `git checkout -b feature/amazing-feature`
-3. **Make your changes** and test thoroughly
-4. **Commit your changes**: `git commit -m 'Add some amazing feature'`
-5. **Push to the branch**: `git push origin feature/amazing-feature`
-6. **Open a Pull Request** and describe your changes in detail
-
-I welcome contributions in:
-- 💻 Code improvements and bug fixes
-- 📚 Documentation and examples
-- 🎨 UI/UX enhancements
-- ✅ Test coverage
-- 💡 New feature ideas
-
-Feel free to reach out if you have any questions or need guidance!
 
 ## 🎮 When I'm Not Coding
 - 📚 Reading tech blogs and documentation
@@ -406,22 +401,6 @@ graph LR
 
 
 
----
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
-</div>
-
-
-
-## 🌟 Featured Repositories
-<div align="center">
-  <a href="https://github.com/abhishek-maurya576/linkzy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-maurya576&repo=linkzy&theme=radical" />
-  </a>
-  <a href="https://github.com/abhishek-maurya576/Tic-Tac-Toe-AI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek-maurya576&repo=Tic-Tac-Toe-AI&theme=radical" />
-  </a>
-</div>
 
 ## 💻 Workspace Setup
 <div align="center">
@@ -433,55 +412,7 @@ graph LR
 🛠️ Setup: Dual Monitor
 ```
 
-</div>
 
-## 📱 App Development Stats
-```mermaid
-pie title App Development Focus
-    "UI/UX Design" : 30
-    "Backend Logic" : 25
-    "Testing" : 20
-    "Performance Optimization" : 15
-    "Documentation" : 10
-```
-
-## 🏆 Coding Achievements
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img width="100" src="https://img.shields.io/badge/50+-Android_Apps-success?style=for-the-badge" />
-        <br/>
-        <sup>Projects Completed</sup>
-      </td>
-      <td align="center">
-        <img width="100" src="https://img.shields.io/badge/50+-Github_Repos-blue?style=for-the-badge" />
-        <br/>
-        <sup>Open Source</sup>
-      </td>
-      <td align="center">
-        <img width="100" src="https://img.shields.io/badge/1000+-Commits-green?style=for-the-badge" />
-        <br/>
-        <sup>Code Contributions</sup>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
----
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
-
-## counting of visitors to this page in this section started from Feb 13, 2025
-<a href="http://s05.flagcounter.com/more/P1"><img src="https://s05.flagcounter.com/count2/P1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_22/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-## 🎯 Goals for 2025
-- ✅ Master Flutter
-- ✅ Launch Linkzy to Play Store
-- 🚀 Publish 3+ articles on Dev.to
-- 🚀 Contribute to 10+ open source repositories
 
 ## 🎯 Quote I Live By
 > "Code with purpose. Learn with passion. Share with heart."
@@ -502,9 +433,57 @@ pie title App Development Focus
 </div>
 
 ---
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+  <h3>🚀 Open for Exciting Opportunities</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Available%20for%20Work-Yes-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available for Work" />
+    <img src="https://img.shields.io/badge/Open%20to%20Collaborate-Yes-blue?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaborate" />
+  </p>
+  
+  **Looking to collaborate on:**
+  - 📱 Mobile App Development Projects
+  - 🤖 AI/ML Integration Solutions  
+  - 🌟 Open Source Contributions
+  - 🎓 Educational Technology Projects
 </div>
 
-<!-- Star the repo if you like it! Fork to use it for your own profile -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:maurya9721@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://telegram.me/Abhi_576">
+          <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://wa.me/9118396042">
+          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🌍 Global Visitor Analytics
+
+<div align="center">
+  <a href="http://s05.flagcounter.com/more/P1"><img src="https://s05.flagcounter.com/count2/P1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_22/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" alt="Footer Wave" />
+  
+  <p>
+    <i>⭐ If you found my profile interesting, consider giving it a star!</i><br>
+    <i>🍴 Feel free to fork this template for your own use</i>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=abhishek-maurya576&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</div>
