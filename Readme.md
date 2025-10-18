@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Abhishek+Maurya+👋;Android+Developer+📱;Flutter+Developer+🚀;Java+%26+Python+Enthusiast+💻;AI/ML+Integration+Expert+🤖;Open+Source+Contributor+🌟;Building+Amazing+Apps+✨" alt="Abhishek Maurya - Android Developer, Java & Python Enthusiast, Open Source Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+Abhishek+Maurya+%F0%9F%91%8B;Android+Developer+%F0%9F%93%B1;Flutter+Developer+%F0%9F%9A%80;Java+%26+Python+Enthusiast+%F0%9F%92%BB;AI/ML+Integration+Expert+%F0%9F%A4%96;Open+Source+Contributor+%E2%AD%90;Building+Amazing+Apps+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
