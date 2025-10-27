@@ -1,26 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=40&fontAlignY=35&desc=Where%20Innovation%20Meets%20Execution&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=40&fontAlignY=35&desc=Where%20Innovation%20Meets%20Execution&descAlignY=55&descAlign=50" loading="lazy"/>
 </div>
 
 <div align="center"> 
-<img src="https://github.com/abhishek-maurya576/abhishek-maurya576/blob/main/gif4%281%29.gif" width="400px" alt="Abhishek Maurya - Android Developer" />  
+<img src="https://github.com/abhishek-maurya576/abhishek-maurya576/blob/main/gif4%281%29.gif" width="400px" alt="Abhishek Maurya - Android Developer" loading="lazy" />  
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+Abhishek+Maurya+%F0%9F%91%8B;Android+Developer+%F0%9F%93%B1;Flutter+Developer+%F0%9F%9A%80;Java+%26+Python+Enthusiast+%F0%9F%92%BB;AI/ML+Integration+Expert+%F0%9F%A4%96;Open+Source+Contributor+%E2%AD%90;Building+Amazing+Apps+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+Abhishek+Maurya+%F0%9F%91%8B;Android+Developer+%F0%9F%93%B1;Flutter+Developer+%F0%9F%9A%80;Java+%26+Python+Enthusiast+%F0%9F%92%BB;AI/ML+Integration+Expert+%F0%9F%A4%96;Open+Source+Contributor+%E2%AD%90;Building+Amazing+Apps+%E2%9C%A8" alt="Typing SVG" loading="lazy" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" loading="lazy">
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="margin-right: 10px;" alt="Wave Animation">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="margin-right: 10px;" alt="Wave Animation" loading="lazy">
  <a href="https://komarev.com/ghpvc/?username=abhishek-maurya576">
-    <img src="https://komarev.com/ghpvc/?username=abhishek-maurya576&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=abhishek-maurya576&color=brightgreen&style=for-the-badge" alt="Profile Views" loading="lazy" />
   </a>
-  <img src="https://img.shields.io/github/followers/abhishek-maurya576?style=for-the-badge&color=orange&labelColor=black" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/abhishek-maurya576?style=for-the-badge&color=yellow&labelColor=black" alt="Total Stars" />
+  <img src="https://img.shields.io/github/followers/abhishek-maurya576?style=for-the-badge&color=orange&labelColor=black" alt="Followers" loading="lazy" />
+  <img src="https://img.shields.io/github/stars/abhishek-maurya576?style=for-the-badge&color=yellow&labelColor=black" alt="Total Stars" loading="lazy" />
 </div>
 
 ---
@@ -38,7 +38,7 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
   <table>
     <tr>
       <td align="center" width="33%">
-        <a href="https://abhishek-folio.vercel.app/)>
+        <a href="https://abhishek-folio.vercel.app/">
           <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-000000?style=for-the-badge&logo=firefox&logoColor=white" />
         </a>
         <br/><sub>Personal Website & Projects</sub>
@@ -185,18 +185,18 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=abhishek-maurya576&show_icons=true&theme=tokyonight&count_private=true&bg_color=0D1117&border_color=30363d&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=abhishek-maurya576&show_icons=true&theme=tokyonight&count_private=true&bg_color=0D1117&border_color=30363d&hide_border=true&include_all_commits=true" alt="GitHub Stats" loading="lazy" />
       </td>
       <td width="50%">
-        <img src="https://streak-stats.demolab.com?user=abhishek-maurya576&theme=tokyonight&background=0D1117&border=30363d&stroke=00FF00&ring=00FF00&fire=FF6B6B&currStreakLabel=00FF00&hide_border=true" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=abhishek-maurya576&theme=tokyonight&background=0D1117&border=30363d&stroke=00FF00&ring=00FF00&fire=FF6B6B&currStreakLabel=00FF00&hide_border=true" alt="GitHub Streak" loading="lazy" />
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya576&layout=compact&theme=tokyonight&langs_count=8&count_private=true&bg_color=0D1117&border_color=30363d&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-maurya576&layout=compact&theme=tokyonight&langs_count=8&count_private=true&bg_color=0D1117&border_color=30363d&hide_border=true" alt="Top Languages" loading="lazy" />
       </td>
       <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek-maurya576&theme=tokyonight" alt="Productive Time" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhishek-maurya576&theme=tokyonight" alt="Productive Time" loading="lazy" />
       </td>
     </tr>
   </table>
@@ -205,31 +205,31 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
 ### 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-maurya576&custom_title=Abhishek's%20Contribution%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-maurya576&custom_title=Abhishek's%20Contribution%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" loading="lazy" />
 </div>
 
 ### ⚡ Comprehensive Developer Dashboard
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-maurya576&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-maurya576&theme=tokyonight" alt="Profile Details" loading="lazy" />
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-maurya576&theme=tokyonight" alt="Repos Per Language" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-maurya576&theme=tokyonight" alt="Repos Per Language" loading="lazy" />
       </td>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-maurya576&theme=tokyonight" alt="Most Commit Language" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-maurya576&theme=tokyonight" alt="Most Commit Language" loading="lazy" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-maurya576&theme=tokyonight" alt="Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-maurya576&theme=tokyonight" alt="Stats" loading="lazy" />
       </td>
       <td align="center">
-        <img src="https://github-stats-alpha.vercel.app/api?username=abhishek-maurya576&cc=0D1117&tc=00FF00&ic=00FF00&bc=30363d" alt="Quick Stats"/>
+        <img src="https://github-stats-alpha.vercel.app/api?username=abhishek-maurya576&cc=0D1117&tc=00FF00&ic=00FF00&bc=30363d" alt="Quick Stats" loading="lazy" />
       </td>
     </tr>
   </table>
@@ -239,9 +239,9 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
 <details>
  <summary><b>🏅 GSSoC (GirlScript Summer of Code) Achievements</b></summary>
  <p align="center">
-   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="100px" />
-   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" />
-   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" />
+   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="100px" loading="lazy" />
+   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" loading="lazy" />
+   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" loading="lazy" />
  </p>
  <p align="center">Recognized as a <b>Code Luminary</b> and <b>Open Source Contributor</b> at GSSoC 2024 Extended 🚀</p>
 </details>
@@ -251,7 +251,7 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
 
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek-maurya576&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishek-maurya576&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" loading="lazy" />
 </div>
 
 
@@ -261,111 +261,67 @@ I'm Abhishek Maurya, a passionate Android and Flutter developer currently pursui
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🚀 Latest Projects | Mobile App Portfolio
+## 🚀 Featured Projects
+
+<p align="center">A collection of my recent work showcasing my skills in web/app development, AI, and content creation.</p>
+
 <div align="center">
   <table>
-  <tr>
-      <td align="center">
+    <tr>
+      <td align="center" width="50%">
+        <h3>🔍 ForensicFlow</h3>
+        <p>Advanced digital forensics platform for analyzing Universal Forensic Data Reports (UFDR). Built for Smart India Hackathon 2025 with AI-powered insights using Google Gemini and OpenAI GPT.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+          <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
+          <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+        </p>
+        <a href="https://forensicflow.vercel.app/">
+          <img src="https://img.shields.io/badge/View_Project-→-blue?style=for-the-badge" alt="View Project"/>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <h3>📊 Student Performance Predictor</h3>
+        <p>ML-powered Django application predicting student performance categories using ensemble methods (Random Forest, Decision Tree, Logistic Regression) with interactive Chart.js visualizations.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+          <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+          <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
+        </p>
+        <a href="https://github.com/abhishek-maurya576/student-performance-predictor">
+          <img src="https://img.shields.io/badge/View_Project-→-blue?style=for-the-badge" alt="View Project"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🧘 AuraCare - Mental Wellness App</h3>
+        <p>Comprehensive mental wellness Flutter app with liquid glass-morphism UI, AI-driven mood tracking, meditation features, and community support powered by Google Gemini.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+          <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Google Gemini"/>
+          <img src="https://img.shields.io/badge/Cloud_Firestore-FFA611?style=flat-square&logo=firebase&logoColor=black" alt="Cloud Firestore"/>
+        </p>
         <a href="https://github.com/abhishek-maurya576/auracare">
-          <img src="https://img.shields.io/badge/Auracare-00B4D8?style=for-the-badge&logo=flutter&logoColor=white" alt="auracare - Flutter Chat Application"/>
-          <br/>
-          <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Project Status: Active"/>
-          <img src="https://img.shields.io/badge/Version-v1.3.0-blue?style=flat-square" alt="Project Version"/>
+          <img src="https://img.shields.io/badge/View_Project-→-blue?style=for-the-badge" alt="View Project"/>
         </a>
-        <p><strong>MindMate</strong> - MindMate (AuraCare) is a comprehensive mental wellness Flutter application that combines beautiful liquid glass-morphism UI with powerful AI-driven features for mood tracking, emotional support, meditation, and community connection. Built with a focus on psychological comfort and therapeutic aesthetics</em></p>
       </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="center" width="50%">
+        <h3>💬 Linkzy - Real-time Chat App</h3>
+        <p>Modern 1-on-1 chat application with beautiful UI and interactive animations. Features real-time messaging, profile pictures, and seamless user experience.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+          <img src="https://img.shields.io/badge/Cloud_Firestore-FFA611?style=flat-square&logo=firebase&logoColor=black" alt="Cloud Firestore"/>
+          <img src="https://img.shields.io/badge/Provider-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Provider"/>
+        </p>
         <a href="https://github.com/abhishek-maurya576/linkzy">
-          <img src="https://img.shields.io/badge/Linkzy-00B4D8?style=for-the-badge&logo=flutter&logoColor=white" alt="Linkzy - Flutter Chat Application"/>
-          <br/>
-          <img src="https://img.shields.io/badge/Status-Archived-success?style=flat-square" alt="Project Status: Archived"/>
-          <img src="https://img.shields.io/badge/Version-v1.4.0-blue?style=flat-square" alt="Project Version"/>
+          <img src="https://img.shields.io/badge/View_Project-→-blue?style=for-the-badge" alt="View Project"/>
         </a>
-        <p><strong>Linkzy: Flutter Chat App</strong> - A modern real-time 1-on-1 chat application built with Flutter and Firebase. Features include secure messaging with PIN protection, animated UI, cross-platform support (iOS, Android, Web), and real-time notifications. <em>Keywords: Flutter, Firebase, Real-time Chat, Cross-platform, Mobile App</em></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/abhishek-maurya576/EduReach">
-          <img src="https://img.shields.io/badge/EduReach-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="EduReach - Android Education App"/>
-          <br/>
-          <img src="https://img.shields.io/badge/Status-In_Development-yellow?style=flat-square" alt="Project Status: In Development"/>
-        </a>
-        <p><strong>EduReach: Android Education Platform</strong> - AI-powered educational app designed to enhance learning efficiency through interactive courses, quizzes, task management, and personalized progress tracking. <em>Keywords: Android, Education App, AI, Machine Learning, Java</em></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/abhishek-maurya576/AiChatBot">
-          <img src="https://img.shields.io/badge/AI_Chat_Bot_Agent-039BE5?style=for-the-badge&logo=chatbot&logoColor=white" alt="AI Chat Bot Agent"/>
-        </a>
-        <p>Personal assistant application that integrates advanced AI capabilities with automated interaction features. Allows for efficient message sending, app control, and information retrieval through natural language commands.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/abhishek-maurya576/Snake-Game">
-          <img src="https://img.shields.io/badge/Snake_Game_(Android)-00A7F7?style=for-the-badge&logo=android&logoColor=white" alt="Snake Game (Android)"/>
-        </a>
-        <p>A modern implementation of the classic Snake game for Android, built with Jetpack Compose and Kotlin. Features enhanced graphics, multiple game modes, and a retro Nokia phone UI.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/abhishek-maurya576/snake_game">
-          <img src="https://img.shields.io/badge/Snake_Game_(Web)-FFA500?style=for-the-badge&logo=javascript&logoColor=white" alt="Snake Game (Web)"/>
-        </a>
-        <p>A modern implementation of the classic Snake game with enhanced features and realistic graphics using HTML5 Canvas and JavaScript.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/abhishek-maurya576/Tic-Tac-Toe-AI">
-          <img src="https://img.shields.io/badge/Tic_Tac_Toe_AI-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Tic Tac Toe AI"/>
-        </a>
-        <p>A modern implementation of the classic Tic Tac Toe game built with Jetpack Compose for Android, featuring an unbeatable AI opponent.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/abhishek-maurya576/Stop-Watch">
-          <img src="https://img.shields.io/badge/Stop_Watch-FFD700?style=for-the-badge&logo=javascript&logoColor=black" alt="Stop Watch"/>
-        </a>
-        <p>A modern stopwatch application with a beautiful yellow theme, built using HTML, CSS, and JavaScript with a Firebase backend.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/abhishek-maurya576/Muzic-Player">
-          <img src="https://img.shields.io/badge/Muzic_Player-E91E63?style=for-the-badge&logo=android&logoColor=white" alt="Muzic Player"/>
-        </a>
-        <p>A modern Android music player application with a clean interface for local music playback. Features media controls, background playback, and a beautiful UI.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/abhishek-maurya576/NetFlix-Clone">
-          <img src="https://img.shields.io/badge/Netflix_Clone-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix Clone"/>
-        </a>
-        <p>A web-based clone of the Netflix streaming platform built with HTML, CSS, and JavaScript.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/abhishek-maurya576/portfolio">
-          <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
-        </a>
-        <p>A modern, responsive portfolio website built with React, Vite, and styled-components. Showcases projects, skills, and professional experience with a clean interface.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/abhishek-maurya576/AI-Text-Summarize-app">
-          <img src="https://img.shields.io/badge/AI_Text_Summarizer-7E57C2?style=for-the-badge&logo=openai&logoColor=white" alt="AI Text Summarizer"/>
-        </a>
-        <p>An application that uses AI to automatically summarize long texts and documents into concise, readable summaries.</p>
       </td>
     </tr>
   </table>
@@ -440,13 +396,13 @@ graph LR
 ## 🎮 Fun Zone
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" loading="lazy" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" loading="lazy" />
 </div>
 
 
@@ -555,7 +511,7 @@ graph LR
 
 <div align="center">
   <h3>🏙️ My Contribution Skyline in 3D!</h3>
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Skyline" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Skyline" loading="lazy" />
   <br/>
 </div>
 
@@ -568,7 +524,7 @@ graph LR
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishek-maurya576/abhishek-maurya576/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishek-maurya576/abhishek-maurya576/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishek-maurya576/abhishek-maurya576/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishek-maurya576/abhishek-maurya576/output/github-contribution-grid-snake.svg" loading="lazy">
   </picture>
   <br/>
 </div>
@@ -587,11 +543,11 @@ graph LR
     <i>🍴 Feel free to fork this template for your own use</i>
   </p>
   
-  <img src="https://komarev.com/ghpvc/?username=abhishek-maurya576&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhishek-maurya576&style=for-the-badge&color=blueviolet" alt="Profile Views" loading="lazy" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Visiting!%20👋&fontSize=24&fontAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Visiting!%20👋&fontSize=24&fontAlignY=65" loading="lazy" />
 </div>
 
 <!-- Keywords: Abhishek Maurya, Android Developer, Flutter Developer, Java Developer, BCA Student, University of Allahabad, Open Source Contributor,Cursor pro, windsurf IDE pro -->
