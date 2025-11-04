@@ -2,9 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Digital%20Space&fontSize=40&fontAlignY=35&desc=Where%20Innovation%20Meets%20Execution&descAlignY=55&descAlign=50" loading="lazy"/>
 </div>
 
-<div align="center"> 
-<img src="https://github.com/abhishek-maurya576/abhishek-maurya576/blob/main/gif4%281%29.gif" width="400px" alt="Abhishek Maurya - Android Developer" loading="lazy" />  
+<div align="center">
+
+<picture>
+  <!-- For dark theme -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhishek-maurya576/abhishek-maurya576/blob/main/assets/dark_theme_png.gif">
+  
+  <!-- For light theme -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhishek-maurya576/abhishek-maurya576/blob/main/gif4%281%29.gif">
+  
+  <!-- Fallback image (used if neither applies) -->
+  <img src="https://github.com/abhishek-maurya576/abhishek-maurya576/blob/main/gif4%281%29.gif" 
+       width="400px" 
+       alt="Abhishek Maurya - Android Developer" 
+       loading="lazy" />
+</picture>
+
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+Abhishek+Maurya+%F0%9F%91%8B;Android+Developer+%F0%9F%93%B1;Flutter+Developer+%F0%9F%9A%80;Java+%26+Python+Enthusiast+%F0%9F%92%BB;AI/ML+Integration+Expert+%F0%9F%A4%96;Open+Source+Contributor+%E2%AD%90;Building+Amazing+Apps+%E2%9C%A8" alt="Typing SVG" loading="lazy" />
