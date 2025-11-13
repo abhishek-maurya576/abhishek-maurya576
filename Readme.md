@@ -474,17 +474,17 @@ graph LR
   <table>
     <tr>
       <td align="center">
-        <a href="mailto:maurya972137@gmail.com">
+        <a href="mailto:letsmailtoabhishekmaurya@gmail.com">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
         </a>
       </td>
       <td align="center">
-        <a href="https://telegram.me/Abhi_576">
+        <a href="https://telegram.me/bforbca">
           <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
         </a>
       </td>
       <td align="center">
-        <a href="https://wa.me/9118396042">
+        <a href="https://wa.me/0000000000">
           <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
         </a>
       </td>
