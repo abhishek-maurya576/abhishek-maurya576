@@ -25,9 +25,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Hi,+I'm+Abhishek+Maurya+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;AI/ML+Engineer+%F0%9F%A4%96;Mobile+App+Developer+%F0%9F%93%B1;Building+Intelligent+Systems+%F0%9F%A7%A0;LLM+%26+Generative+AI+Enthusiast+%E2%9C%A8;Open+Source+Contributor+%E2%AD%90" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="margin-right: 10px;" alt="Wave Animation">
@@ -136,9 +134,7 @@ I'm Abhishek Maurya, a passionate Python Developer and AI/ML Engineer currently 
 
 ## :man_technologist: About Me 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+
 
 > - 🌱 I'm currently learning **Advanced ML, LLMs, AI Agents, and Flutter**
 > - 🔭 Working on **AI-powered automation tools** and intelligent mobile applications
@@ -148,9 +144,8 @@ I'm Abhishek Maurya, a passionate Python Developer and AI/ML Engineer currently 
 > - 🧠 Focused on creating **AI solutions that enhance productivity**
 > - ⚡ Fun fact: I think I am good at sleeping 😴
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+
+
 
 ## 💻 Tech Stack 
 | Categories      | Tools & Skills
@@ -204,32 +199,7 @@ I'm Abhishek Maurya, a passionate Python Developer and AI/ML Engineer currently 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-maurya576&custom_title=Abhishek's%20Contribution%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area_color=00FF00&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-### ⚡ Comprehensive Developer Dashboard
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek-maurya576&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhishek-maurya576&theme=tokyonight" alt="Repos Per Language" />
-      </td>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishek-maurya576&theme=tokyonight" alt="Most Commit Language" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishek-maurya576&theme=tokyonight" alt="Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-stats-alpha.vercel.app/api?username=abhishek-maurya576&cc=0D1117&tc=00FF00&ic=00FF00&bc=30363d" alt="Quick Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
 <details>
@@ -325,63 +295,36 @@ I'm Abhishek Maurya, a passionate Python Developer and AI/ML Engineer currently 
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-## 💬 Testimonials
-> "Abhishek's passion for AI and automation is remarkable! His Python skills and LLM integration expertise are impressive."  
-> – *Tech Community Member*
-
-> "Always ready to help juniors and lead with example. Great mentor in both AI and mobile development!"  
-> – *Junior from Dev Hub*
-
-
-
-
-## 🎮 Fun Zone
-
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-
-
 
 ## 💻 Workspace Setup
 <div align="center">
 
 ```text
-💻 Machine: HP
-⚙️ OS: Windows 11 
-🚀 IDE: VS Code, PyCharm, Android Studio
-🐍 Python: 3.11+
-🤖 AI Stack: TensorFlow, PyTorch, LangChain
-🛠️ Setup: Dual Monitor
+ IDE: VS Code, Cursor AI, PyCharm
+🤖 AI Tools: GitHub Copilot, Claude, Gemini
+🐍 Python: 3.11+ | Django, FastAPI
+📱 Mobile: Flutter, Android Studio
+🛠️ Setup: Windows 11, Dual Monitor
 ```
 
+</div>
 
-
-## 🎯 Quote I Live By
-> "Code with purpose. Learn with passion. Share with heart."
+## 🔨 Currently Building
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🌟-PERSONAL_PHILOSOPHY-gold?style=for-the-badge" />
-        <br/>
-        <div style="background: linear-gradient(45deg, #FF8008, #FFC837); padding: 15px; border-radius: 10px; margin: 10px 0; font-style: italic; font-weight: bold; color: #333;">
-          <h3 style="margin: 0;">"Perfect banne ka sapna chhodo, action lo! Launch karo, seekhte jao, aur khud ko grow karta dekho."</h3>
-          <p style="margin: 5px 0 0; text-align: right;">— Abhishek Maurya</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🤖 **PRIME** | Personal AI Assistant with voice control & automation | 🟢 Active |
+| 🔍 **ForensicFlow** | AI-powered digital forensics platform | 🟡 Archived |
+
 </div>
+
+## 🎯 Philosophy
+> *"Stop dreaming of perfection, take action! Launch, keep learning, and watch yourself grow."*
+> — Abhishek Maurya
+
+
 
 ---
 ## 🤝 Let's Connect & Collaborate
@@ -421,13 +364,7 @@ I'm Abhishek Maurya, a passionate Python Developer and AI/ML Engineer currently 
   <br/>
 </div>
 
----
 
-## 🌍 Global Visitor Analytics
-
-<div align="center">
-  <a href="http://s05.flagcounter.com/more/P1"><img src="https://s05.flagcounter.com/count2/P1/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_22/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-</div>
 
 <div align="center">
   <p>
